@@ -1,0 +1,26 @@
+package com.kh.ch10_exception;
+
+import java.util.Scanner;
+
+public class Practice {
+	static Scanner sc = new Scanner(System.in);
+	
+	public static void main(String[] args) {
+		method1();
+	}
+	
+	public static void method1() {
+		System.out.print("노래 제목을 입력하세요 : ");
+		String title = sc.nextLine();
+		
+		 System.out.println("http://www.example.com");
+	        
+	        // Manually open the URL in the default browser (not from Eclipse console)
+	        try {
+	            java.awt.Desktop.getDesktop().browse(new java.net.URI("https://www.youtube.com/results?search_query="+title));
+	        } catch (Exception e) {
+	            e.printStackTrace();
+	        }
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;remove&apos; in &apos;com.kh.practice.list.library.controller.BookController.deleteBook(...)&apos; to &apos;removeBook&apos;&#x0D;&#x0A;- Original project: &apos;12_Collection&apos;&#x0D;&#x0A;- Original element: &apos;com.kh.practice.list.library.controller.BookController.deleteBook(String, String).remove&apos;&#x0D;&#x0A;- Renamed element: &apos;remove&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;remove&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.kh.practice.list.library.controller{BookController.java[BookController~deleteBook~QString;~QString;@remove!1028!1046!1033!1038!QBook;!0!false" name="removeBook" references="true" stamp="1720168439031" version="1.0"/>
+</session>

@@ -1,0 +1,10 @@
+package com.kh.practice.set.view;
+
+public class LotteryMenu {
+	
+	private String name;
+	private String phone;
+	
+	
+
+}

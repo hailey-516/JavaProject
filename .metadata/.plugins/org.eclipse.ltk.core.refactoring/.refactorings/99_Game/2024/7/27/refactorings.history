@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;Num&apos; in &apos;com.kh.controller.PlayController.game01()&apos; to &apos;num&apos;&#x0D;&#x0A;- Original project: &apos;99_Game&apos;&#x0D;&#x0A;- Original element: &apos;com.kh.controller.PlayController.game01().Num&apos;&#x0D;&#x0A;- Renamed element: &apos;Num&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;Num&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.kh.controller{PlayController.java[PlayController~game01@Num!414!453!418!420!I!0!false" name="num" references="true" stamp="1720078699389" version="1.0"/>
+</session>

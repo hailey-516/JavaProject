@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;d3&apos; in &apos;com.kh.practice.MultiGenericRun.main(...)&apos; to &apos;d1&apos;&#x0D;&#x0A;- Original project: &apos;11_Generic&apos;&#x0D;&#x0A;- Original element: &apos;com.kh.practice.MultiGenericRun.main(String[]).d3&apos;&#x0D;&#x0A;- Renamed element: &apos;d3&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;d3&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.kh.practice{MultiGenericRun.java[MultiGenericRun~main~\[QString;@d3!394!447!423!424!QDataClass03\&lt;QString;QInteger;&gt;;!0!false" name="d1" references="true" stamp="1720060260982" version="1.0"/>
+</session>

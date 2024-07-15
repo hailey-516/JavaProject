@@ -1,0 +1,9 @@
+public class Main {
+	public static void main(String[] args) {
+		lotto();
+	}
+	
+	public void lotto() {
+			int rNum = (int)(Math.random() * 45 + 1)
+			
+	}
